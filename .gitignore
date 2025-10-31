@@ -1,0 +1,3 @@
+//why gitignore file - to keep sensitive info like db credentials out of source code
+node_modules/
+.env
